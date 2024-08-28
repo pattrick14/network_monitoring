@@ -29,6 +29,7 @@ For network scanning privileges, switch to the root user:
 Create and activate a Python virtual environment:
 
 ```python3 -m venv env```
+
 ```source env/bin/activate```
 
 
