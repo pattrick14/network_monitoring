@@ -52,6 +52,9 @@ Finally, execute the project with:
 
 ```python3 networkmonitoring.py```
 
+### 6. To exit the environment
+Run the command:
+```deactivate```
 
 ## Dependencies
 
